@@ -159,6 +159,7 @@ Clear progression from basic NLP to advanced Transformers
 Suggestions, improvements, and collaborations are welcome.
 Feel free to open an issue or submit a pull request.
 
+📄 License
 
 This repository is created for learning, experimentation, and portfolio demonstration purposes.
 
